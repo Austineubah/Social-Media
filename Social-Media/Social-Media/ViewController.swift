@@ -8,7 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+// UITableViewController changes Opening Screen into an iMessage-like row table view with lines
+class ViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
